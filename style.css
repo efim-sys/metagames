@@ -51,7 +51,8 @@
     transition-duration: 0.4s;
   }
 
-  .gameDiv {
+.gameDiv {
+    display: inline-block;
     color: #b5ff00;
     text-align: center;
     background: rgb(36, 36, 36);
@@ -64,3 +65,4 @@
 .gameDiv:hover {
     background: rgb(53, 53, 53);
 }
+
