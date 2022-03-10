@@ -66,3 +66,11 @@
     background: rgb(53, 53, 53);
 }
 
+.overlay {
+    color: #b5ff00;
+    text-align: center;
+    background: rgb(36, 36, 36);
+    width: 100vw;
+}
+
+
