@@ -67,6 +67,7 @@
 }
 
 .overlay {
+    margin-top: 0;
     color: #b5ff00;
     text-align: center;
     background: rgb(36, 36, 36);
