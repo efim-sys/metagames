@@ -52,10 +52,15 @@
   }
 
   .gameDiv {
-      color: #b5ff00;
-      text-align: center;
-      background: rgb(36, 36, 36);
-      transition-duration: 0.4s;
-      width: 300px;
-      height: 400px;
-  }
+    color: #b5ff00;
+    text-align: center;
+    background: rgb(36, 36, 36);
+    transition-duration: 0.4s;
+    width: 300px;
+    height: 400px;
+    border-radius: 4px;
+}
+
+.gameDiv:hover {
+    background: rgb(53, 53, 53);
+}
