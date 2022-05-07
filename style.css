@@ -76,6 +76,7 @@ body {
 
 .overlay {
     margin-top: 0;
+    margin-bottom: 25px;
     color: #b5ff00;
     text-align: center;
     background: rgb(36, 36, 36);
